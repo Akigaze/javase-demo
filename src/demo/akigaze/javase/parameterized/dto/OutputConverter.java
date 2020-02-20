@@ -1,6 +1,6 @@
-package se.reflect.type.parameterized.dto;
+package demo.akigaze.javase.parameterized.dto;
 
-import se.reflect.type.parameterized.BeansUtil;
+import demo.akigaze.javase.parameterized.BeansUtil;
 
 public interface OutputConverter<D extends OutputConverter<D, E>, E> {
   default D convertFrom(E entity) {

@@ -1,8 +1,10 @@
-package se.reflect.type.parameterized.entity;
+package demo.akigaze.javase.parameterized.dto;
+
+import demo.akigaze.javase.parameterized.entity.User;
 
 import java.util.Date;
 
-public class User {
+public class UserDTO implements OutputConverter<UserDTO, User> {
   private String id;
   private String name;
   private String password;
@@ -10,10 +12,10 @@ public class User {
   private Date createdTime;
   private Date updatedTime;
 
-  public User() {
+  public UserDTO() {
   }
 
-  public User(String id, String name, String password, boolean deleted, Date createdTime, Date updatedTime) {
+  public UserDTO(String id, String name, String password, boolean deleted, Date createdTime, Date updatedTime) {
     this.id = id;
     this.name = name;
     this.password = password;

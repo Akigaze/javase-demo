@@ -1,4 +1,4 @@
-package se.string;
+package demo.akigaze.javase.string;
 
 public class MString {
   private final char[] value = {};

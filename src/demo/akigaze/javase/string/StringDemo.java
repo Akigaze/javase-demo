@@ -1,4 +1,4 @@
-package se.string;
+package demo.akigaze.javase.string;
 
 public class StringDemo {
   public static void main(String[] args){

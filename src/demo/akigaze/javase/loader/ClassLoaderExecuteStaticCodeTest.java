@@ -1,4 +1,4 @@
-package se.loader;
+package demo.akigaze.javase.loader;
 
 public class ClassLoaderExecuteStaticCodeTest {
   static {

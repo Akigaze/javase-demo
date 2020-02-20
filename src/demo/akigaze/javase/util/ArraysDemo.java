@@ -1,4 +1,4 @@
-package se.util.util;
+package demo.akigaze.javase.util;
 
 import java.util.Arrays;
 

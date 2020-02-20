@@ -1,6 +1,4 @@
-package se.reflect.type.parameterized;
-
-import se.reflect.type.parameterized.dto.InputConverter;
+package demo.akigaze.javase.parameterized;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

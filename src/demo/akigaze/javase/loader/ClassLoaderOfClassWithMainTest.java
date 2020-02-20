@@ -1,4 +1,4 @@
-package se.loader;
+package demo.akigaze.javase.loader;
 
 //同一个class使用不同类加载器加载得到的Class对象并不是同一个，不能相互转换
 

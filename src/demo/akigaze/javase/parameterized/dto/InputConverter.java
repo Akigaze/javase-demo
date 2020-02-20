@@ -1,7 +1,7 @@
-package se.reflect.type.parameterized.dto;
+package demo.akigaze.javase.parameterized.dto;
 
-import se.reflect.type.parameterized.BeansUtil;
-import se.reflect.type.parameterized.ReflectionUtil;
+import demo.akigaze.javase.parameterized.BeansUtil;
+import demo.akigaze.javase.parameterized.ReflectionUtil;
 
 import java.lang.reflect.ParameterizedType;
 

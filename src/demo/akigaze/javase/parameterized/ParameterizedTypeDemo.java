@@ -1,4 +1,4 @@
-package se.reflect.type.parameterized;
+package demo.akigaze.javase.parameterized;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;

@@ -1,6 +1,4 @@
-package se.reflect.type.parameterized;
-
-import se.reflect.type.parameterized.dto.InputConverter;
+package demo.akigaze.javase.parameterized;
 
 public class BeansUtil {
 

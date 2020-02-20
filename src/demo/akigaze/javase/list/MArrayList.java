@@ -1,4 +1,4 @@
-package se.collection.list;
+package demo.akigaze.javase.list;
 
 import java.util.Collection;
 import java.util.Iterator;
