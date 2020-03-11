@@ -1,0 +1,16 @@
+plugins {
+
+}
+
+group 'demo.javase'
+version '0.0.1'
+
+
+
+repositories {
+
+}
+
+dependencies {
+
+}
